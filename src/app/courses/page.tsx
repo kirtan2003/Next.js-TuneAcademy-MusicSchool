@@ -8,7 +8,7 @@ import data from '@/data/music_courses.json'
 function page() {
     return (
         <div className="min-h-screen bg-black py-12 pt-36">
-            <h3 className="text-lg md:text-4xl font-bold mb-8 text-white text-center font-sans">All Course ({data.courses.length})</h3>
+            <h3 className="text-lg md:text-5xl font-bold mb-8 text-white text-center font-sans">All Course ({data.courses.length})</h3>
             <div className="flex flex-wrap justify-center gap-8">
                 {data.courses.map((course) => {
                     return (
