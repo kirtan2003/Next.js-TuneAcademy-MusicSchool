@@ -1,0 +1,124 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Guitar Fundamentals",
+            "slug": "guitar-fundamentals",
+            "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+            "price": 99.99,
+            "instructor": "John Doe",
+            "featured": true,
+            "image": "/assets/guitar.webp"
+        },
+        {
+            "id": 2,
+            "title": "Piano Essentials",
+            "slug": "piano-essentials",
+            "description": "Master the fundamentals of piano playing with step-by-step lessons.",
+            "price": 129.99,
+            "instructor": "Jane Smith",
+            "featured": false,
+            "image": "/assets/piano.webp"
+        },
+        {
+            "id": 3,
+            "title": "Violin Mastery",
+            "slug": "violin-mastery",
+            "description": "Develop precision and technique to master the violin.",
+            "price": 109.99,
+            "instructor": "Michael Brown",
+            "featured": true,
+            "image": "/assets/violin.webp"
+        },
+        {
+            "id": 4,
+            "title": "Drumming for Beginners",
+            "slug": "drumming-for-beginners",
+            "description": "Learn rhythm, timing, and drum techniques from scratch.",
+            "price": 89.99,
+            "instructor": "Emily Johnson",
+            "featured": false,
+            "image": "/assets/drum.webp"
+        },
+        {
+            "id": 5,
+            "title": "Bass Guitar Techniques",
+            "slug": "bass-guitar-techniques",
+            "description": "Enhance your bass playing skills with advanced techniques.",
+            "price": 119.99,
+            "instructor": "Robert Wilson",
+            "featured": true,
+            "image": "/assets/bass-guitar.webp"
+        },
+        {
+            "id": 6,
+            "title": "Music Theory Basics",
+            "slug": "music-theory-basics",
+            "description": "Understand the fundamentals of music theory to improve your playing.",
+            "price": 69.99,
+            "instructor": "Laura Davis",
+            "featured": false,
+            "image": "/assets/music-theory.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Advanced Jazz Guitar",
+            "slug": "advanced-jazz-guitar",
+            "description": "Explore jazz improvisation, chord voicings, and advanced techniques for jazz guitarists.",
+            "price": 149.99,
+            "instructor": "David Parker",
+            "featured": true,
+            "image": "/assets/advanced-guitar.webp"
+        },
+        {
+            "id": 8,
+            "title": "Classical Piano Mastery",
+            "slug": "classical-piano-mastery",
+            "description": "Learn classical pieces and refine your technique with expert guidance.",
+            "price": 139.99,
+            "instructor": "Sophia Lee",
+            "featured": false,
+            "image": "/assets/classical-piano.webp"
+        },
+        {
+            "id": 9,
+            "title": "Electronic Music Production",
+            "slug": "electronic-music-production",
+            "description": "Master music production techniques using DAWs, synths, and digital effects.",
+            "price": 159.99,
+            "instructor": "Alex Carter",
+            "featured": false,
+            "image": "/assets/electric-guitar.webp"
+        },
+        {
+            "id": 10,
+            "title": "Singing Techniques",
+            "slug": "singing-techniques",
+            "description": "Develop vocal control, range, and stage presence with professional coaching.",
+            "price": 99.99,
+            "instructor": "Emma Williams",
+            "featured": false,
+            "image": "/assets/advanced-violin.webp"
+        },
+        {
+            "id": 11,
+            "title": "Music Composition",
+            "slug": "music-composition",
+            "description": "Learn to compose original music and develop your songwriting skills.",
+            "price": 129.99,
+            "instructor": "Benjamin Harris",
+            "featured": true,
+            "image": "/assets/Orchestral.webp"
+        },
+        {
+            "id": 12,
+            "title": "Blues Harmonica Basics",
+            "slug": "blues-harmonica-basics",
+            "description": "Discover the fundamentals of blues harmonica and how to play expressive solos.",
+            "price": 79.99,
+            "instructor": "Tom Anderson",
+            "featured": false,
+            "image": "/assets/sexophone.webp"
+        }
+    ]
+}
